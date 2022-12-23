@@ -12,6 +12,8 @@
 
   header img{
     width: 100%;
+
+    border: 5px solid yellow;
   }
 
 </style>

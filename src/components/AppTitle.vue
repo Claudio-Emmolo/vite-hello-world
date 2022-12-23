@@ -9,4 +9,10 @@
 </template>
 
 <style scoped>
+  main h1{
+    text-align: center;
+    font-size: 5rem;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+  }
 </style>
